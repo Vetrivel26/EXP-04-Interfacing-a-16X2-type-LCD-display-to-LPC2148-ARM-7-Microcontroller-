@@ -1,11 +1,6 @@
 # EXP-04-Interfacing a 16X2 type LCD display to LPC2148 ARM 7Microcontroller
 
-Name :JAISON RAPHAEL . V
-
-Roll no :212221230038
-
- 
-
+Name :Vetrivel
 
 ## Interfacing a 16X2 type LCD display to LPC2148 ARM 7 Microcontroller 
 
